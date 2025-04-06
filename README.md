@@ -75,7 +75,7 @@ A powerful Flask-based web application that leverages AI to analyze images, prov
 1. **Environment Setup**
    ```bash
    # Clone repository
-   git clone https://github.com/Darahas1/AI-Image-Analyzer-INFOSYS.git
+   git clone [https://github.com/iwantacrepe/From-Alt-text-to-Real-Context-with-AI.git]
 
    # Create virtual environment
    python -m venv venv
